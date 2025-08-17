@@ -1,0 +1,23 @@
+<style>
+@keyframes spin{
+  from{ transform:rotate(0deg); }
+  to{ transform:rotate(0deg); }
+}
+.general-about .profile-pic img{
+  border-radius: 50%;
+  animation: spin 7s infinite linear;
+}
+</style>
+
+👇👇 CODE FOR ROUND + SPINNING !!!!!
+
+<style>
+@keyframes spin{
+  from{ transform:rotate(0deg); }
+  to{ transform:rotate(-360deg); }
+}
+.general-about .profile-pic img{
+  border-radius: 50%;
+  animation: spin 7s infinite linear;
+}
+</style>
