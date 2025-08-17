@@ -1,0 +1,149 @@
+<h1> to Everyone! I do like <a href="https://www.spacehey.com/loverrrinaa">Arina</a>
+</h1>
+
+
+
+<style>
+main:before {
+ width: 100%;
+ height: 290px;
+ display: block;
+ content: "";
+ background-image: url('https://i.pinimg.com/originals/3e/2a/dc/3e2adc22145bec22f6dabbc09fca29d5.gif');
+ background-position: center center;
+ background-size: cover;
+}
+main {
+    background-image: url(https://i.pinimg.com/564x/2f/5c/63/2f5c638540bbe9e3108bf13403e08423.jpg);
+    background-size: cover; no-repeat;
+    background-size: 100% ;
+  }  
+body
+        {background: url("https://i.redd.it/qg8cwtnyuqxz.jpg")
+        fixed; background-size:;
+     }
+     }
+    padding: 5px;
+    font-size: 80%;
+    color: var(--light-orange);
+  }
+  </style>
+<style>
+footer {
+        border-radius: 15px;
+background-image: url(https://i.pinimg.com/564x/1b/c6/ec/1bc6ec2106cdcd64a67300c3edf9d5a1.jpg); 
+</style>
+<style>
+@import 
+url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+:root {
+  --font-family: monospace;
+  --mynamesize: 25px
+;}
+  h1, h2, h3, h4, h5, a, p, nav label, .section{ 
+font-family: var(--font-family) !important; 
+ text-shadow: !important;
+ text-transform:!important;
+}
+h1, h2, h3, h4,h5,a, p, nav label, .section {color: red;}
+h1 {
+  color: white ;
+}
+table, th, td {
+  border: none ;
+}
+:root {
+        --logo-blue: #000000 ;
+        --darker-blue: ;
+        --lighter-blue: #000000 ;
+        --even-lighter-blue: ;
+        --lightest-blue:  ;
+        --dark-orange: #ff0000 ;
+        --light-orange: ;
+        --even-lighter-orange: ;
+        --green: red;
+    }
+.profile .contact,
+    .profile .url-info,
+    .profile .table-section,
+    .home-actions {
+        border: none ;
+    }
+   a.ditto-link {
+        display: block;
+        margin: 10px 0;
+        color: #cc3e3e;
+        font-size: 1.4rem;
+        font-weight: bold;
+        animation: blinker 1s linear infinite;
+    }
+    .profile-pic {
+        border-radius: 500px;
+        overflow: hidden;
+    }
+    .heading {
+        padding: 5px 0 !important;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        background-color: transparent !important;
+        color: white !important;
+        border-bottom: 2px solid;
+    }
+    .container {
+        border-radius: 15px 15px 0 0;
+        overflow: hidden;
+        margin-top: 30px;
+        padding: 10px;
+    }
+    table.comments-table td {
+        background-color: !important;
+    }
+    .comments-table td:first-child img {
+        width: 80px;
+        border-radius: 500px;
+    }
+    .online {
+    font-family: 'Kalam', cursive;
+    color: red;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px #AC3862;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(1.0,0,0,1.0);
+    animation-duration: 2s;
+    position: relative; /* Required for pseudo-element positioning */
+    padding-left: 25px; /* Space for the image */
+    }
+    .online img {
+    display: none
+    }
+    .online::before {
+    content: ""; /* Required for pseudo-elements */
+    display: inline-block;
+    width: 20px; /* Image width */
+    height: 20px; /* Image height */
+    background-image: url(''); /* Replace with your image URL */
+    background-size: cover;
+    position: absolute;
+    left: 0; /* Adjust to align with text */
+    top: 50%;
+    transform: translateY(-50%); /* Center vertically */
+    animation: blink 2s infinite; /* Optional: Sync with text blink */
+    }
+    .profile .friends .person img {
+        border-radius: 500px;
+    }
+    .blog-preview p {
+        font-size: 1.4rem;
+    }
+    .contact {
+  border-radius: 25px;
+  background: url(https://i.pinimg.com/originals/e8/a3/9a/e8a39aaaaac84031def203fa064b8f32.gif);
+  background-position: center center;
+   background-size: cover;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+</style>
