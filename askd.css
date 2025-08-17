@@ -1,0 +1,452 @@
+<style>.online { visibility: hidden; } .online img { content: url("https://cdn.discordapp.com/attachments/777700036523196427/1245900873763127366/output-onlinegiftools.gif?ex=665a6f1c&is=66591d9c&hm=531110ffcf8b44f5144315c88107b744254f33916f4ebea9f4ccae3688599935&"); animation-name: none; visibility: visible; height: 43px; width: 90px; }</style>
+
+<!-- (c) Layout created by aerin ^_^ (https://layouts.spacehey.com/layout?id=107771) -->
+
+<style>
+    @font-face {
+    font-family: 'basiic';
+    src: url(https://files.catbox.moe/jtvuhg.ttf);
+
+}
+
+.container, main, body, .logout-btn, *, p, a{
+text-transform: lowercase!important;
+font-family: 'basiic';
+color: #A90019!important;
+text-style: bold;
+
+}
+
+</style>
+
+<style>
+.table-section + .table-section, .blog-preview, .url-info, .profile-info, .mood p:last-child, .heading, .contact .inner a img, .blurbs h4, .details-table td:nth-child(1){
+display:none;
+
+}
+
+</style>
+
+<style>
+.details-table tr:nth-child(1){display: table-row;}
+.details-table tr:nth-child(2){display: none;}
+.details-table tr:nth-child(3){display: none;}
+.details-table tr:nth-child(4){display: none;}
+.details-table tr:nth-child(5){display: none;}
+.details-table tr:nth-child(6){display: none;
+}
+.table-section td{display:grid;
+}
+.table-section .inner{
+height:300px;
+overflow-y:auto;
+}
+</style>
+
+<style>
+.container{
+width: 940px;
+
+}
+
+</style>
+
+<style>
+.profile-pic, .profile-pic img{
+height:130px!important;
+
+}
+
+.profile-pic img{
+border-radius: 100px;
+overflow: none;
+
+}
+
+</style>
+
+<style>
+.mood p:first-child b {
+  color: transparent !important;
+  text-shadow: none !important;
+  letter-spacing: -100px;
+</style>
+
+<style>
+/*comment + replies scrollbox*/
+.comment-replies, .comment-reply{
+height: auto;
+max-height: 100px;
+overflow-y: auto;
+overflow-x: auto;
+
+}
+
+.comments-table{
+display: block;
+height: 290px!important;
+overflow-y: scroll;
+display: block;
+
+}
+
+</style>
+
+<style>
+/*flip profile*/
+.profile{
+direction: rtl;
+
+}
+
+.blurbs, .heading, .blog-preview a, .friends, .general-info, .contact, .url-info, .details-table, .details p, .mood{
+direction: ltr;
+
+}
+
+</style>
+
+<style>
+.blurbs, .table-section .inner, nav .links{
+text-align: center;
+
+}
+
+nav .top {
+    height: 65px;
+}
+
+nav .top .center form {
+    position: relative;
+    bottom: 5px!important;
+}
+
+nav .top .left .logo {
+    height: 38px!important;
+    width: 38px!important;
+    bottom: 4px;
+    right: 5px;
+    position: relative!important;
+    content: url(https://i.imgur.com/3bxZ8vC.png)!important;
+}
+
+nav .links {
+    text-align: center;
+    position: relative;
+    background: transparent;
+    bottom: 25px!important;
+height: 30px;
+
+}
+
+nav{
+margin-bottom: 0px;
+
+}
+
+</style>
+
+
+<style>
+.friends-grid::before{
+	width: 900px;
+	height: 80px;
+	object-fit: cover;
+	margin-bottom: 10px!important;
+}
+.friends {
+border: none;
+    overflow: hidden;
+}
+
+.friends-grid {
+  position: relative;
+}
+
+.friends-grid {
+	display: flex;
+	flex-wrap: nowrap;
+}
+</style>
+
+<style>
+.container, footer{
+background-color: #360008;
+
+}
+
+</style>
+
+<style>
+.online{
+content: url('https://yokai.crd.co/assets/images/image55.gif?v=b4df531c');
+float: left;
+
+}
+
+</style>
+
+<style>
+nav .top, nav .links, .logout-btn, nav a{
+background-color: #360008;
+color: #A90019!important;
+
+}
+
+nav .links a, nav .links li .special a{
+    text-shadow: none;
+
+}
+
+a:hover{
+text-decoration: none;
+
+}
+
+</style>
+
+<style>
+:root {
+--logo-blue: transparent;
+--lighter-blue: transparent;
+--even-lighter-blue: transparent;
+--lightest-blue: transparent!important;
+--dark-orange: black!important;
+--light-orange: transparent;
+--even-lighter-orange: transparent;
+
+}
+
+.table-section .inner{
+margin-bottom: 0px;
+margin-top: 20px!important;
+overflow-y: auto;
+
+}
+
+.contact{
+margin-top: 20px!important;
+
+}
+
+</style>
+
+<style>
+.container{
+margin-top: 24px;
+
+}
+
+.friends:not(#comments) img{
+transform: scale(0.7);
+
+}
+
+</style>
+
+<style>
+main{
+background-color: #360008;
+
+}
+
+body{
+background: black;
+
+}
+
+</style>
+
+<style>
+.row.profile .col.w-40.left{
+background: black;
+background: linear-gradient(180deg, black 50%, #360008 70%); 
+margin-top: 0px!important;
+position: relative;
+bottom: 6px!important;
+
+}
+
+.general-about{
+height: 154px;
+margin-bottom: 0px;
+
+}
+
+.details{
+padding: 12px;
+
+}
+
+</style>
+
+<style>
+.profile-pic, .profile-pic img{
+padding: 12px!important;
+
+}
+
+</style>
+
+<style>
+nav .top, nav .links, nav a, .logout-btn{
+background-color: black;
+
+}
+
+main{
+margin-top: 0px;
+position: relative;
+bottom: 25px!important;
+
+}
+
+</style>
+
+<style>
+.comments-table td, .comments-table{
+border: transparent;
+
+}
+
+</style>
+
+<style>
+.blurbs, .friends:not(#comments), .comments-table{
+background: black;
+border-radius: 10px;
+
+}
+
+</style>
+
+<style>
+button{
+background-color: black;
+color: white;
+text-style: italic;
+border: transparent;
+border-radius: 2px;
+
+}
+
+</style>
+
+<style>
+.col.right{
+position: relative;
+bottom: 10px!important;
+
+}
+
+</style>
+
+<style>
+.blurbs .inner{
+padding: 8px;
+
+}
+
+.friends:not(#comments){
+margin-bottom: 5px;
+
+}
+
+</style>
+
+<style>
+.comment-replies, .comment-reply{
+border: transparent;
+
+}
+
+</style>
+
+<style>
+.table-section:before{
+width: 100%;
+	height: 100px;
+	display: block;
+	content: "";
+    border-radius: 2px;
+    margin-top: -6px;
+	background-image: url('https://i.postimg.cc/pd68ZCGX/images-1.jpg');
+	background-position: center center;
+	background-size: cover;
+border-radius: 10px;
+filter: sepia(100%) hue-rotate(312deg) saturate(7.5) brightness(50%);
+
+}
+
+.col.right:before{
+width: 100%;
+	height: 150px;
+	display: block;
+	content: "";
+    border-radius: 2px;
+    margin-top: 6px;
+	background-image: url('https://i.postimg.cc/hPVFTP4f/images.jpg');
+	background-position: center center;
+	background-size: cover;
+border-radius: 10px;
+filter: sepia(100%) hue-rotate(312deg) saturate(7.5) brightness(50%);
+}
+
+</style>
+
+<style>
+.blurbs{
+height: 180px;
+overflow-y: auto;
+
+}
+
+.contact .inner{
+text-align: center;
+
+}
+
+
+FOOTER > UL.links {
+display: none;
+
+}
+
+FOOTER > P:nth-child(1) {
+display: none;
+
+}
+
+FOOTER > P:nth-child(2) {
+display: none;
+
+}
+
+P.copyright {
+display: none;
+
+}
+
+footer {
+height: 5px;
+background-color: transparent;
+background-position: center;
+margin-top: -10px;
+
+}
+
+a:hover, a:active, a:visited, nav .links a:hover {
+text-decoration: none;
+text-style: italic;
+
+}
+
+</style>
+
+<style>
+img{
+filter: sepia(100%) hue-rotate(312deg) saturate(7.5) brightness(50%);
+
+}
+
+</style>
