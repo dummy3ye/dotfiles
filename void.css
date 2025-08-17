@@ -1,0 +1,124 @@
+<style>
+/* ====== GLOBAL VOID MODE ====== */
+* {
+  background: #000000 !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  text-shadow: none !important;
+}
+
+html, body {
+  background: #000000 !important;
+  color: #ffffff !important;
+  font-family: monospace, sans-serif !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex;
+  justify-content: center;
+}
+
+/* ====== MAIN WRAPPER ====== */
+body > * {
+  width: 100% !important;
+  max-width: 900px !important;  /* controls center width */
+  margin: 0 auto !important;
+}
+
+/* ====== HEADERS & TEXT ====== */
+h1, h2, h3, h4, h5, h6,
+p, a, span, div, nav, label, td, th {
+  color: #ffffff !important;
+  background: transparent !important;
+  text-align: center !important;
+  text-decoration: none !important;
+}
+
+/* ====== LINKS ====== */
+a {
+  color: #bbbbbb !important;
+}
+a:hover {
+  color: #ffffff !important;
+  text-decoration: underline !important;
+}
+
+/* ====== NAVIGATION BAR ====== */
+nav, nav * {
+  background: #000000 !important;
+  color: #ffffff !important;
+  border: none !important;
+  text-align: center !important;
+}
+
+/* ====== CONTAINERS ====== */
+main, .container, .content, .section,
+.profile, .comments-table, .blog-preview,
+.friends, .contact, .url-info {
+  background: #000000 !important;
+  border: none !important;
+  margin: 0 auto !important;
+  text-align: center !important;
+}
+
+/* ====== PROFILE PIC & IMAGES ====== */
+img {
+  border-radius: 0 !important;
+  border: none !important;
+  background: transparent !important;
+  display: block;
+  margin: 0 auto !important;
+}
+
+/* ====== ONLINE STATUS ====== */
+.online {
+  color: #00ff00 !important;
+  font-weight: bold !important;
+  background: transparent !important;
+  text-align: center !important;
+}
+.online img {
+  display: none !important;
+}
+
+/* ====== TABLES ====== */
+table, th, td {
+  background: #000000 !important;
+  border: none !important;
+  color: #ffffff !important;
+  margin: 0 auto !important;
+  text-align: center !important;
+}
+
+/* ====== SCROLLBAR ====== */
+::-webkit-scrollbar {
+  width: 8px;
+  background: #000000 !important;
+}
+::-webkit-scrollbar-thumb {
+  background: #333333 !important;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555555 !important;
+}
+
+/* ====== FOOTER ====== */
+footer, footer * {
+  background: #000000 !important;
+  color: #ffffff !important;
+  border: none !important;
+  text-align: center !important;
+}
+
+/* ====== BUTTONS ====== */
+button, input[type=submit], input[type=button] {
+  background: #000000 !important;
+  color: #ffffff !important;
+  border: 1px solid #ffffff !important;
+  display: block !important;
+  margin: 10px auto !important;
+}
+button:hover, input[type=submit]:hover, input[type=button]:hover {
+  background: #111111 !important;
+}
+</style>
